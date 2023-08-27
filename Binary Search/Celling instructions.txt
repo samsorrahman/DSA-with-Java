@@ -1,0 +1,8 @@
+Ceiling of a number:
+Smallest element in array greater or = target 
+
+arr = [2, 3 5 9 12, 45]
+
+celing on 14 = 45
+celing on 5 = 5
+celing on 11 = 12
