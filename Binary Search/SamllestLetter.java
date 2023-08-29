@@ -1,3 +1,7 @@
+// Input: letters = ["c","f","j"], target = "a"
+// Output: "c"
+// Explanation: The smallest character that is lexicographically greater than 'a' in letters is 'c'.
+
 public class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
         int left = 0;
